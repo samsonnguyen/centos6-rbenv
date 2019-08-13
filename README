@@ -1,0 +1,4 @@
+Rbenv on a centos6 image
+
+Based off of:
+https://github.com/tcnksm/dockerfile-rbenv/blob/master/Dockerfile
